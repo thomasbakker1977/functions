@@ -5,7 +5,7 @@ __human_name__ = 'functions'
 # Add your code after this line
 
 def greet(name):
-   return  (f"Hello, {name}!")
+   return (f"Hello, {name}!")
 print(greet("Bob"))
 
 def add( a, b, c):
@@ -13,9 +13,9 @@ def add( a, b, c):
 print (add(5,3,2))
 
 def positive(num):
-    return   ( num > 0)
+    return ( num > 0)
 print(positive(5))
 
 def negative(num):
-    return  ( num < 0 )
+    return ( num < 0 )
 print(negative(5))
