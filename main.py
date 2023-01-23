@@ -14,8 +14,8 @@ add(5,3,2)
 
 def positive(num):
     return  print ( num > 0)
-positive(1)
+positive(5)
 
 def negative(num):
-    return print ( num > 0 )
-negative(-2)
+    return print ( num < 0 )
+negative(5)
